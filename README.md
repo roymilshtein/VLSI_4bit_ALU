@@ -4,12 +4,21 @@
 
 This project involves the design and implementation of a simplified 4-bit Arithmetic Logic Unit (ALU) using Cadence Virtuoso and the gpdk045/gsclib045 technology. The project is divided into 2 stages, with each stage documented through a detailed report.
 
+The designed circuit in virtuoso is found in the file ALU.circ.
+
 ## Project Structure
+The 4 main steps of the project are:
+- Logisim schematic design
+- Floorplan design
+- Virtuoso implementation
+- Validation and simulations
+
+![Wrokflow](workflow.png)
 
 ### Reports
 
 - **Planning Stage Report**: This report outlines the initial planning and design considerations for the ALU.
-- **Implementation Stage Report**: This report details the implementation phase of the project, including schematics, measurements and floor plans.
+- **Implementation Stage Report**: This report details the implementation phase of the project, including schematics, measurements, floor plan and timings.
 
 ### Content of the Planning Stage
    - Project I/O
@@ -17,8 +26,6 @@ This project involves the design and implementation of a simplified 4-bit Arithm
    - Block Design and Methodology
    - Cell Number and Area Estimation
    - Floor Plan
-
-![ALU Logisim Implementation](/Logisim%20Implementation/FULL_ALU.PNG)
 
 ### Content of the Implementation Stage
 
@@ -37,8 +44,6 @@ This project involves the design and implementation of a simplified 4-bit Arithm
    - Block layouts
    - Full ALU layout
    - DRC, LVS, and QRC extraction
-
-![ALU Virtuoso Implementation](ALU_full_layout_virtuoso.PNG)
 
 ## Repository Structure
 
