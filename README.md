@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves the design and implementation of a simplified 4-bit Arithmetic Logic Unit (ALU) using Cadence Virtuoso and the gpdk045/gsclib045 technology. The project is divided into several stages, with each stage documented through detailed reports.
+This project involves the design and implementation of a simplified 4-bit Arithmetic Logic Unit (ALU) using Cadence Virtuoso and the gpdk045/gsclib045 technology. The project is divided into 2 stages, with each stage documented through a detailed report.
 
 ## Project Structure
 
@@ -11,7 +11,14 @@ This project involves the design and implementation of a simplified 4-bit Arithm
 - **Planning Stage Report**: This report outlines the initial planning and design considerations for the ALU.
 - **Implementation Stage Report**: This report details the implementation phase of the project, including schematics, measurements, floor plans, and summaries.
 
-### Content of the Implementation Report
+### Content of the Planning Stage
+   - Project I/O
+   - Opcode Assignment
+   - Block Design and Methodology
+   - Cell Number and Area Estimation
+   - Floor Plan
+
+### Content of the Implementation Stage
 
 1. **Schematics**:
    - ALU schematic
@@ -28,14 +35,6 @@ This project involves the design and implementation of a simplified 4-bit Arithm
    - Block layouts
    - Full ALU layout
    - DRC, LVS, and QRC extraction
-
-4. **Summary**
-
-## Project Requirements
-
-- **Design Objective**: Simplified 4-bit ALU
-- **Design Tools**: Cadence Virtuoso
-- **Technology**: gpdk045/gsclib045
 
 ## Repository Structure
 
