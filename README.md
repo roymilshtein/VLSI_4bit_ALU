@@ -9,7 +9,7 @@ This project involves the design and implementation of a simplified 4-bit Arithm
 ### Reports
 
 - **Planning Stage Report**: This report outlines the initial planning and design considerations for the ALU.
-- **Implementation Stage Report**: This report details the implementation phase of the project, including schematics, measurements, floor plans, and summaries.
+- **Implementation Stage Report**: This report details the implementation phase of the project, including schematics, measurements and floor plans.
 
 ### Content of the Planning Stage
    - Project I/O
@@ -17,6 +17,8 @@ This project involves the design and implementation of a simplified 4-bit Arithm
    - Block Design and Methodology
    - Cell Number and Area Estimation
    - Floor Plan
+
+![ALU Logisim Implementation](/Logisim%20Implementation/FULL_ALU.PNG)
 
 ### Content of the Implementation Stage
 
@@ -35,6 +37,8 @@ This project involves the design and implementation of a simplified 4-bit Arithm
    - Block layouts
    - Full ALU layout
    - DRC, LVS, and QRC extraction
+
+![ALU Virtuoso Implementation](ALU_full_layout_virtuoso.PNG)
 
 ## Repository Structure
 
