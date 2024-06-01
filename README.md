@@ -45,5 +45,3 @@ The 4 main steps of the project are:
    - Full ALU layout
    - DRC, LVS, and QRC extraction
 
-## Repository Structure
-
